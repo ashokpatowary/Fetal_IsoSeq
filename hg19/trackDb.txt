@@ -1,0 +1,36 @@
+track IsoQuant
+bigDataUrl IsoQuant.bb
+shortLabel IsoQuant
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+#descriptionUrl https://sciso.gandallab.org/
+
+track TALON
+bigDataUrl FetalBrain.bb
+shortLabel TALON
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+
+track FLAIR
+bigDataUrl flair.bb
+shortLabel FLAIR
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+
+track Stringtie
+bigDataUrl Stringtie.bb
+shortLabel Stringtie
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+
+track Bambu
+bigDataUrl Bambu.bb
+shortLabel Bambu
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+
+track ESPRESSO
+bigDataUrl Espresso.bb
+shortLabel espresso
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
