@@ -1,0 +1,6 @@
+hub Fetal_IsoSeq
+shortLabel Fetal_IsoSeq
+longLabel Full length Isoform sequencing from developing human cortex
+genomesFile genomes.txt
+email ashokpatowary@g.ucla.edu
+descriptionUrl https://sciso.gandallab.org/
